@@ -11,4 +11,3 @@ Jesús David Tejeda Hernández
 Lizbeth Guadalupe Segundo Cienega 
 
 A simple Blackjack game in C++
-HOIÑOAKSÑLSJÑSAOJDQ{Ñ
